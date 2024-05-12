@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 501fdea7699972a49b3cb0367dc8f86c, type: 3}
+  m_Name: EnemySettingsCar
+  m_EditorClassIdentifier: 
+  _clearance: 0
+  _spring: 1000
+  _damper: 4500
+  _collapse: 35
+  _texture: {fileID: 2800000, guid: f8718e7cdf1e591418d59978f4191856, type: 3}
