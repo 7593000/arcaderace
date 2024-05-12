@@ -1,7 +1,7 @@
 # Задание. Прототипирование аркадной гонки
 
 
-### Гараж с настройками авто 
+### Гараж с настройками авто <img src="/Assets/ImageGit/G1.jpg" width="400" />
 ![Index](/Assets/ImageGit/G1.jpg){width=50%}
 ![Index](/Assets/ImageGit/G2.jpg){width=50%}
 ![Index](/Assets/ImageGit/G3.jpg){width=50%}
