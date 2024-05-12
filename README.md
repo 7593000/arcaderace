@@ -2,7 +2,7 @@
 
 
 ### Гараж с настройками авто 
-![Index](/Assets/ImageGit/Setup.gif)
+![Index](/Assets/ImageGit/G1.jpg)
 ### Старт гонки с отчетом 
 ![Index](/Assets/ImageGit/GodMode.gif)
 ### движение противника и игрока 
